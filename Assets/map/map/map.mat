@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: house
-  m_Shader: {fileID: -6465566751694194690, guid: db45ab22af7aeea48b5adb69464c4923,
+  m_Name: map
+  m_Shader: {fileID: -6465566751694194690, guid: 84acac9dbd7b90d4a8c0677920fc8473,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -64,12 +64,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_4062e550cc0e4ba0918353793f9253a2_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 9d5b302c8e5e02543bd532b9a6b1eca4, type: 3}
+    - _SampleTexture2D_5c77126056b74bb39f007b1ada83d18b_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 64e2238c03dbc974dac49ee9fe887b7d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_ad4cd0f509d944028dc75c3d7ab0dd25_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 6de0e8b00f7f5934b9768f970ea3fccc, type: 3}
+    - _SampleTexture2D_f3932b5d605c4752807c6e9325d2f606_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 6f68e16630728d04283eea9313c8bc2e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
@@ -127,7 +127,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &791656490744600513
+--- !u!114 &6049390692700156655
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

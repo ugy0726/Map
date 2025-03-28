@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-5892081383870760049
+--- !u!114 &-3923618835765600643
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Map
-  m_Shader: {fileID: -6465566751694194690, guid: 490419d2eac07264493726c2644dd70c,
+  m_Name: house
+  m_Shader: {fileID: -6465566751694194690, guid: 067b581d5c9bebb44abdbcf82fea343e,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -77,8 +77,12 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _SampleTexture2D_05f6a57f258c476b9146758c3511b2a1_Texture_1_Texture2D:
-        m_Texture: {fileID: 2800000, guid: 49308333921f22f4394e33c52d471527, type: 3}
+    - _SampleTexture2D_17d1f1a131db4919a849ca7dbeaf1204_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 11eeaba0edbcdf249abb0abefdf266f2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_e81f0c3390c7473a8909347da4bcd0d2_Texture_1_Texture2D:
+        m_Texture: {fileID: 2800000, guid: 1ff8b5e7aa275644fab09477e580d65c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _SpecGlossMap:
